@@ -15,6 +15,7 @@ import java.util.List;
 
 import static flight_booking.demo.domain.discount.entity.QDiscount.discount;
 
+
 @Repository
 @RequiredArgsConstructor
 public class DiscountQueryRepositoryImpl implements DiscountQueryRepository {
